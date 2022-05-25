@@ -1,1 +1,1 @@
-console.log('Halo, repo kedua!')
+console.log('Halo, repo kedua!!')
